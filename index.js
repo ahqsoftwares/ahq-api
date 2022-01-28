@@ -1,3 +1,3 @@
 const { DB } = require("mongquick");
-const ahq = new DB()
-module.exports = ahq;
+const db = new DB()
+module.exports = db;
